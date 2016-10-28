@@ -1,4 +1,4 @@
-Accessibility Plugin
+Accessibility Plugin [![CircleCI Status](https://circleci.com/gh/angular/protractor-accessibility-plugin.svg?style=shield)](https://circleci.com/gh/angular/protractor-accessibility-plugin)
 ====================
 
 Protractor comes with support for two accessibility testing options:

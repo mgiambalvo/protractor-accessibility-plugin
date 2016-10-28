@@ -1,0 +1,10 @@
+dependencies:
+  post:
+    - ./node_modules/.bin/webdriver-manager update
+    - ./node_modules/.bin/webdriver-manager start:
+          background: true
+    - npm start:
+          background: true
+test:
+  override:
+    - npm test
